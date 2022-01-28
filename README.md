@@ -1,7 +1,7 @@
-## Academic Projects
+## Technical Projects
 Welcome! 👋🏼 
 
-This is my repository for technical and non-technical projects I've done during my time at UC Berkeley. 🧸
+This is my repository for technical projects I've worked on during my time at UC Berkeley 🧸
 
 Because this is educational material belonging to course staff, some parts might be omitted for the sake of plagirism 🚧
 
