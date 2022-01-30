@@ -1,5 +1,5 @@
-# Technical Project Portfolio 👨🏽‍💻
-Welcome! This is my repository for technical projects I've worked on during my time at UC Berkeley. Because this is educational material belonging to course staff, some content might be omitted for integrity purposes.
+# Project Portfolio 👨🏽‍💻
+Welcome! This is a repository for technical projects I've worked on during my time at UC Berkeley. Because this is educational material belonging to course staff, some content might be omitted for integrity purposes.
 
 If you'd like more insight into my work, feel free to reach me at louieortiz [at] berkeley [dot] edu :-)
 
