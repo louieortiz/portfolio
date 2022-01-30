@@ -1,4 +1,4 @@
-## Technical Projects
+## Technical Project Portfolio
 Welcome! 👋🏼 
 
 This is my repository for technical projects I've worked on during my time at UC Berkeley 🧸
