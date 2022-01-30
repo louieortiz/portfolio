@@ -16,18 +16,17 @@ Predicting Song Suggestions Using Spotify API → `spotifyapi.ipynb`
 
 ## Data 100: Principles and Techniques of Data Science
 
-New York Taxi Rides → `nyc_taxirides.ipynb`
+Fairness in Housing Appraisal and Gradient Descent → `hce_gradient.ipynb`
 
+
+New York Taxi Rides → `nyc_taxirides.ipynb`
 
 
 Spam/Ham Email Classification Algorithm → `spamham_part1.ipynb` `spamham_part2.ipynb`
 
 
-
 Textual Analysis of High Profile Tweets → `tweet_sentiments.ipynb`
 
-
-Fairness in Housing Appraisal and Gradient Descent
 
 ## Legal Studies 123: Data, Prediction, and Law
 
