@@ -9,7 +9,11 @@ If you'd like more insight into my work, feel free to reach me at louieortiz [at
 
 🎧 Predicting Song Suggestions Using Spotify API → `spotifyapi/spotify.ipynb` 
 
-          ↳ _t-SNE, Clustering, Dimensionality Reduction_
+          ↳ _K-means Clustering, Random Subsetting_
+
+📜 Dimensionality Reduction of Text Corpus → `corpus.ipynb` 
+
+          ↳ _t-SNE, Word2Vec_
 
 ## Data 100: Principles and Techniques of Data Science
 
