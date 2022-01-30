@@ -25,7 +25,7 @@ If you'd like more insight into my work, feel free to reach me at louieortiz [at
 
           ↳ _Feature Engineering, Tree Regression, Principal Component Analysis_
 
-📨 Spam/Ham Email Classification Algorithm → `spamham_part1.ipynb` `spamham_part2.ipynb`
+📨 Spam/Ham Email Classifier → `spamham_part1.ipynb` `spamham_part2.ipynb`
 
           ↳ _Logistic Regression, Cross Validation_
 
