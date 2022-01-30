@@ -7,7 +7,7 @@ If you'd like a more in-depth view into my work, feel free to reach out at louie
 
 ## Data 144: Data Mining and Analytics
 
-🎧 Predicting Song Suggestions Using Spotify API → `spotifyapi` 
+🎧 Predicting Song Suggestions Using Spotify API → `spotifyapi/spotify.ipynb` 
 
           ↳ _t-SNE, Clustering, Dimensionality Reduction_
 
